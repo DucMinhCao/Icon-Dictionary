@@ -1,7 +1,7 @@
 # Icon-Dictionary
 
 ## Giới thiệu
-Batch Rename Application là midterm project môn Lập trình ứng dụng Java.
+Icon Dictionary là midterm project môn Lập trình ứng dụng Java.
 
 Application hỗ trợ các chức năng cơ bản của từ điển.
 ```
